@@ -22,3 +22,4 @@ JAVASCRIPT
 
 6.After payment you will redirect to profile page where you can see all the cars you booked.
 
+<img src = "https://user-images.githubusercontent.com/65214761/158760636-b3598135-0813-4cbd-847f-1104ac0a7091.png">
