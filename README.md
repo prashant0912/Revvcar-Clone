@@ -10,7 +10,7 @@ CSS
 JAVASCRIPT
 
 ### For Rental
-1.Just select the start date and end date,then click on Search
+1.Just select the location , start date and end date,then click on Search
 
 2.It will take to the Rental page where you can see many car available at your location you can also filter many things on the basis of brand,segment,transmission and many more.
 
